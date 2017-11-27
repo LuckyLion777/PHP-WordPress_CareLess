@@ -1,0 +1,21 @@
+/home/caressin/public_html/wp-content/uploads/2017/03/award_elite_2016.jpg
+/home/caressin/public_html/wp-content/uploads/2017/03/award_elite_2015.jpg
+/home/caressin/public_html/wp-content/uploads/2017/03/1.1-Application-for-Employment-Caress-IN-R.pdf
+/home/caressin/public_html/wp-content/uploads/2017/03/tjc2.png
+/home/caressin/public_html/wp-content/uploads/2017/03/tjc1.png
+/home/caressin/public_html/wp-content/uploads/2017/02/cropped-cropped-background_light_slice.jpg
+/home/caressin/public_html/wp-content/uploads/2017/02/award_2011.jpg
+/home/caressin/public_html/wp-content/uploads/2017/02/award_2010.jpg
+/home/caressin/public_html/wp-content/uploads/2017/02/award_2013.jpg
+/home/caressin/public_html/wp-content/uploads/2017/02/award_2012.jpg
+/home/caressin/public_html/wp-content/uploads/2017/02/4.jpg
+/home/caressin/public_html/wp-content/uploads/2017/02/3.jpg
+/home/caressin/public_html/wp-content/uploads/2017/02/7.jpg
+/home/caressin/public_html/wp-content/uploads/2017/02/1.jpg
+/home/caressin/public_html/wp-content/uploads/2017/02/6.jpg
+/home/caressin/public_html/wp-content/uploads/2017/02/cropped-logo.png
+/home/caressin/public_html/wp-content/uploads/2017/02/logo.png
+/home/caressin/public_html/wp-content/uploads/2017/02/cropped-background_light_slice.jpg
+
+Total File size = 24978778
+Compression time = 4 seconds
